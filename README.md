@@ -1,6 +1,6 @@
 # Repro sample for running Aspire tests with Playwright and Blazor Web
 
-This project is to reproduce the issue in Visual Studio 2022/2026 where debugging tests that use the aspire test host result in a browser being launched for visual studio to attach to where it should not.
+This project is to reproduce the issue in Visual Studio 2022/2026 where debugging tests that use the aspire test host result in a browser being launched for visual studio to attach to where it should not, breaking the ability to debug Playwright tests.
 
 To repro:
 
