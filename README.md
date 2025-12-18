@@ -8,7 +8,7 @@ To repro:
 
 2. Build the solution
 
-3. Go to test explorer in visual studio and right click to debug the one test you see. It will likely prompt you in the test output that you need to install Playwright browsers by running a powershells script. Follow those instructions if it does and debug again.
+3. Go to test explorer in visual studio and right click to debug the one test you see. It will likely prompt you in the test output that you need to install Playwright browsers by running a powershell script. Follow those instructions if it does and debug again.
 
 
 What it should do: 
