@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AspireAppWithTests.AppHost/AspireAppWithTests.AppHost.csproj" />
+  <Project Path="AspireAppWithTests.ServiceDefaults/AspireAppWithTests.ServiceDefaults.csproj" />
+  <Project Path="BlazorApp1.Tests/BlazorApp1.Tests.csproj" />
+  <Project Path="BlazorApp1/BlazorApp1.Client/BlazorApp1.Client.csproj" />
+  <Project Path="BlazorApp1/BlazorApp1/BlazorApp1.csproj" />
+</Solution>
