@@ -27,6 +27,6 @@ What it does:
  5. Broken
 
 This is slightly different behaviour to what I'm getting in my own project. I'm not sure what the difference is, but I get similar behaivour except on step three where VS launches the debug browser, 
-it doesn't resolve to a url successfully and I see an about:blank page and eventually hit an error with the debugger failing to attach.
+it doesn't resolve to a url successfully and I see an about:blank page and eventually hit an error with the debugger failing to attach (while the playwright browser is running fine).
 
 I'm not sure why mine is a bit different, but the net result is the same, it shouldn't be launching this debug browser as it prevents executing Playwright tests.
